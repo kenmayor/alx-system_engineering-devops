@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(dirname $(dirname $(realpath$0)))"
+pwd
